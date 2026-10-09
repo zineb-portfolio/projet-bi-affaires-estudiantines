@@ -1,0 +1,109 @@
+id_mobilite,CNE,annee_universitaire,type_mobilite,pays_destination,programme,duree_mois,statut
+MOB-00001,R2022001170,2022-2023,Sortante,France,Erasmus+,5,Realisee
+MOB-00002,R2023002035,2023-2024,Sortante,Italie,Double diplome,3,Realisee
+MOB-00003,R2021000971,2021-2022,Sortante,Allemagne,Ecole d'ete,3,Realisee
+MOB-00004,R2021000737,2024-2025,Sortante,Allemagne,Erasmus+,3,Realisee
+MOB-00005,R2021000857,2021-2022,Sortante,Canada,Stage international,1,Realisee
+MOB-00006,R2020000091,2021-2022,Sortante,Canada,Stage international,5,Realisee
+MOB-00007,R2022001179,2023-2024,Sortante,Italie,Ecole d'ete,6,Realisee
+MOB-00008,R2020000237,2024-2025,Sortante,Senegal,Ecole d'ete,6,Realisee
+MOB-00009,R2023001850,2024-2025,Sortante,Senegal,Stage international,1,Realisee
+MOB-00010,R2020000456,2021-2022,Sortante,Portugal,Double diplome,12,Realisee
+MOB-00011,R2022001101,2024-2025,Sortante,Espagne,Erasmus+,6,Realisee
+MOB-00012,R2021000828,2021-2022,Sortante,France,Stage international,1,Realisee
+MOB-00013,R2024002538,2024-2025,Entrante,Tunisie,Stage international,1,Realisee
+MOB-00014,R2020000056,2023-2024,Sortante,Belgique,Double diplome,3,Realisee
+MOB-00015,R2020000206,2021-2022,Sortante,Tunisie,Convention bilaterale,5,Realisee
+MOB-00016,R2020000269,2021-2022,Sortante,Turquie,Erasmus+,6,Realisee
+MOB-00017,R2022001196,2023-2024,Sortante,Canada,Stage international,3,Realisee
+MOB-00018,R2021000588,2024-2025,Sortante,Espagne,Erasmus+,12,Realisee
+MOB-00019,R2020000270,2024-2025,Sortante,Allemagne,Convention bilaterale,1,Realisee
+MOB-00020,R2023001907,2024-2025,Sortante,Portugal,Stage international,3,Realisee
+MOB-00021,R2022001082,2024-2025,Sortante,Italie,Erasmus+,10,Realisee
+MOB-00022,R2020000392,2022-2023,Sortante,France,Convention bilaterale,5,Realisee
+MOB-00023,R2023001830,2023-2024,Sortante,Belgique,Convention bilaterale,1,Realisee
+MOB-00024,R2021000563,2021-2022,Sortante,Tunisie,Double diplome,12,Realisee
+MOB-00025,R2022001179,2024-2025,Sortante,Allemagne,Double diplome,10,Realisee
+MOB-00026,R2021001036,2022-2023,Entrante,Espagne,Erasmus+,12,Realisee
+MOB-00027,R2022001305,2023-2024,Sortante,Italie,Ecole d'ete,3,Realisee
+MOB-00028,R2021000883,2024-2025,Sortante,Belgique,Convention bilaterale,12,Realisee
+MOB-00029,R2020000346,2023-2024,Sortante,Senegal,Stage international,3,Realisee
+MOB-00030,R2021000824,2022-2023,Sortante,Belgique,Stage international,6,En cours
+MOB-00031,R2020000224,2021-2022,Entrante,Portugal,Stage international,10,Realisee
+MOB-00032,R2022001468,2022-2023,Sortante,France,Stage international,3,Realisee
+MOB-00033,R2022001303,2024-2025,Sortante,Senegal,Stage international,6,Realisee
+MOB-00034,R2020000118,2020-2021,Sortante,Belgique,Convention bilaterale,10,Realisee
+MOB-00035,R2023001740,2024-2025,Sortante,Senegal,Convention bilaterale,5,Realisee
+MOB-00036,R2020000218,2022-2023,Sortante,Belgique,Double diplome,5,Realisee
+MOB-00037,R2021000557,2022-2023,Sortante,Canada,Ecole d'ete,10,En cours
+MOB-00038,R2023001929,2024-2025,Sortante,Allemagne,Erasmus+,1,Realisee
+MOB-00039,R2023001880,2023-2024,Sortante,Senegal,Erasmus+,5,Realisee
+MOB-00040,R2021000838,2022-2023,Sortante,Turquie,Ecole d'ete,12,Realisee
+MOB-00041,R2020000267,2020-2021,Sortante,Tunisie,Ecole d'ete,3,Realisee
+MOB-00042,R2020000280,2020-2021,Sortante,Portugal,Erasmus+,10,Realisee
+MOB-00043,R2023001774,2024-2025,Sortante,Canada,Convention bilaterale,10,Realisee
+MOB-00044,R2021000833,2023-2024,Sortante,Tunisie,Ecole d'ete,5,Realisee
+MOB-00045,R2021000927,2021-2022,Sortante,Portugal,Erasmus+,1,Annulee
+MOB-00046,R2021000957,2021-2022,Sortante,Allemagne,Stage international,1,Realisee
+MOB-00047,R2022001093,2024-2025,Sortante,Portugal,Double diplome,5,Realisee
+MOB-00048,R2020000313,2021-2022,Entrante,Tunisie,Double diplome,12,Realisee
+MOB-00049,R2020000280,2021-2022,Sortante,Senegal,Erasmus+,12,Realisee
+MOB-00050,R2021000644,2024-2025,Entrante,Portugal,Convention bilaterale,5,Realisee
+MOB-00051,R2022001323,2024-2025,Entrante,Espagne,Stage international,6,Realisee
+MOB-00052,R2021000648,2022-2023,Sortante,Turquie,Ecole d'ete,1,Realisee
+MOB-00053,R2023001647,2024-2025,Sortante,Belgique,Double diplome,5,Realisee
+MOB-00054,R2023002109,2024-2025,Sortante,Canada,Ecole d'ete,3,En cours
+MOB-00055,R2020000392,2021-2022,Sortante,Belgique,Ecole d'ete,1,Realisee
+MOB-00056,R2020000484,2020-2021,Sortante,Tunisie,Convention bilaterale,1,Realisee
+MOB-00057,R2020000262,2020-2021,Sortante,Espagne,Erasmus+,5,Realisee
+MOB-00058,R2024002615,2024-2025,Sortante,Senegal,Stage international,10,Realisee
+MOB-00059,R2020000082,2022-2023,Sortante,Espagne,Ecole d'ete,5,Annulee
+MOB-00060,R2024002530,2024-2025,Sortante,Turquie,Erasmus+,5,Realisee
+MOB-00061,R2022001064,2024-2025,Sortante,Senegal,Stage international,5,En cours
+MOB-00062,R2024002258,2024-2025,Sortante,Espagne,Erasmus+,5,Realisee
+MOB-00063,R2022001562,2024-2025,Sortante,Allemagne,Stage international,3,Annulee
+MOB-00064,R2021000911,2022-2023,Sortante,France,Convention bilaterale,5,Annulee
+MOB-00065,R2024002690,2024-2025,Sortante,Turquie,Ecole d'ete,12,Realisee
+MOB-00066,R2020000349,2021-2022,Sortante,Canada,Stage international,10,Realisee
+MOB-00067,R2022001244,2022-2023,Sortante,Italie,Stage international,1,Realisee
+MOB-00068,R2020000156,2021-2022,Sortante,Espagne,Erasmus+,12,Realisee
+MOB-00069,R2023002039,2023-2024,Sortante,Canada,Ecole d'ete,6,Realisee
+MOB-00070,R2023001785,2023-2024,Entrante,Turquie,Ecole d'ete,10,En cours
+MOB-00071,R2023001732,2023-2024,Entrante,Belgique,Double diplome,12,Realisee
+MOB-00072,R2023001810,2024-2025,Sortante,Canada,Erasmus+,10,Realisee
+MOB-00073,R2022001287,2022-2023,Sortante,Allemagne,Stage international,12,Realisee
+MOB-00074,R2023001767,2024-2025,Sortante,Senegal,Ecole d'ete,12,Realisee
+MOB-00075,R2021000565,2023-2024,Sortante,Italie,Stage international,1,Realisee
+MOB-00076,R2022001440,2023-2024,Sortante,France,Convention bilaterale,3,Realisee
+MOB-00077,R2020000508,2022-2023,Sortante,France,Double diplome,6,Realisee
+MOB-00078,R2022001360,2024-2025,Sortante,Turquie,Convention bilaterale,3,Realisee
+MOB-00079,R2020000473,2020-2021,Sortante,Turquie,Double diplome,10,Realisee
+MOB-00080,R2020000096,2020-2021,Sortante,Espagne,Stage international,3,Realisee
+MOB-00081,R2020000277,2020-2021,Sortante,Tunisie,Stage international,1,Realisee
+MOB-00082,R2020000081,2022-2023,Sortante,Belgique,Stage international,6,Realisee
+MOB-00083,R2021001029,2022-2023,Sortante,Italie,Erasmus+,12,Realisee
+MOB-00084,R2021000930,2023-2024,Entrante,Senegal,Erasmus+,10,Realisee
+MOB-00085,R2021000833,2022-2023,Sortante,Turquie,Ecole d'ete,6,Annulee
+MOB-00086,R2020000255,2021-2022,Sortante,Senegal,Ecole d'ete,1,Realisee
+MOB-00087,R2022001307,2024-2025,Sortante,Belgique,Double diplome,1,Annulee
+MOB-00088,R2020000194,2023-2024,Sortante,France,Ecole d'ete,3,Realisee
+MOB-00089,R2020000273,2020-2021,Sortante,Senegal,Ecole d'ete,6,Realisee
+MOB-00090,R2022001249,2022-2023,Sortante,Canada,Double diplome,1,Annulee
+MOB-00091,R2021001035,2023-2024,Entrante,Senegal,Double diplome,10,Realisee
+MOB-00092,R2021000798,2021-2022,Sortante,Belgique,Ecole d'ete,5,Realisee
+MOB-00093,R2020000212,2021-2022,Entrante,Allemagne,Ecole d'ete,6,Realisee
+MOB-00094,R2022001494,2022-2023,Sortante,Canada,Stage international,6,Realisee
+MOB-00095,R2021000910,2021-2022,Sortante,Portugal,Stage international,10,Realisee
+MOB-00096,R2020000426,2022-2023,Sortante,Canada,Convention bilaterale,10,Annulee
+MOB-00097,R2020000414,2020-2021,Sortante,Espagne,Convention bilaterale,12,Annulee
+MOB-00098,R2020000056,2020-2021,Sortante,Italie,Convention bilaterale,6,Realisee
+MOB-00099,R2024002477,2024-2025,Sortante,Senegal,Erasmus+,10,Realisee
+MOB-00100,R2021000966,2022-2023,Sortante,Senegal,Ecole d'ete,1,Realisee
+MOB-00101,R2020000324,2022-2023,Sortante,Senegal,Double diplome,3,Realisee
+MOB-00102,R2022001512,2022-2023,Sortante,Tunisie,Ecole d'ete,1,Realisee
+MOB-00103,R2023001769,2023-2024,Sortante,Canada,Stage international,12,Realisee
+MOB-00104,R2020000285,2023-2024,Sortante,Belgique,Double diplome,12,Realisee
+MOB-00105,R2022001464,2024-2025,Sortante,Tunisie,Stage international,1,Realisee
+MOB-00106,R2024002633,2024-2025,Sortante,Canada,Convention bilaterale,12,Annulee
+MOB-00107,R2023002041,2024-2025,Sortante,France,Erasmus+,10,Realisee
+MOB-00108,R2020000461,2020-2021,Sortante,Belgique,Stage international,5,Realisee

@@ -1,0 +1,10 @@
+﻿code;source;anomalie;nb_lignes;total_lignes;pourcentage
+A1;inscriptions;Formats de date heterogenes;2748;6183;44.44
+A2;etudiants;Modalites de sexe non normalisees;808;2848;28.37
+A3;etudiants;Villes en casse ou espacement incorrects;512;2848;17.98
+A4;inscriptions;Codes filiere en minuscules;557;6183;9.01
+A5;inscriptions;Libelles de statut non normalises;597;6183;9.66
+A6;notes;Notes avec separateur decimal virgule;6751;56954;11.85
+A7;notes;"Notes hors de l'intervalle [0 ; 20]";222;56954;0.39
+A8;toutes;Champs obligatoires non renseignes;1178;65985;1.79
+A9;toutes;Lignes strictement dupliquees;423;65985;0.64

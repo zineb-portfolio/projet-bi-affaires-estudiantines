@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Fichiers temporaires Office
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Secrets : ne jamais publier
+.env
