@@ -55,6 +55,24 @@ formats, sexe écrit de six façons, 87 variantes pour 18 villes, notes hors de
 trois tables de faits. Les mesures `est_admis`, `est_ajourne` et `est_abandon`
 valent 0 ou 1 : leur moyenne donne directement un taux.
 
+## Aperçu du tableau de bord
+
+**Page Inscription** : évolution des effectifs et répartition par filière.
+
+![Page Inscription](docs/images/tableau_de_bord_1_inscription.png)
+
+**Page Réussite** : taux de réussite, évolution de l'abandon, abandon selon le statut de boursier.
+
+![Page Réussite](docs/images/tableau_de_bord_2_reussite.png)
+
+**Page Performance** : modules les plus difficiles et taux de validation par filière.
+
+![Page Performance](docs/images/tableau_de_bord_3_performance.png)
+
+## Schéma en étoile
+
+![Schéma en étoile](docs/images/schema_en_etoile.png)
+
 ## Contenu du dépôt
 
 ```
